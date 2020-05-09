@@ -27,6 +27,7 @@ will run every thing whatever is present inside it
 * cd /mycompose
 *copy docker-compose.yml file and paste that file in mycompose directory
 * use docker-compose up
+
 *you can use this cmnd to run file detach mode
 * docker-compose up -d
 *to stop the sevices you can use
