@@ -32,9 +32,9 @@ you can use this cmnd to run file detach mode
 to stop the sevices you can use
 #docker-compose stop
 So once you stop everything you can start everything from following comand
-#docker-compose start
+* docker-compose start
 You can stop or delete all the container made by docker-compose up
-#docker-compose down
+* docker-compose down
 To delete all the volumes created by docker compose up you can use
-#docker-compose down --volumes
-# ram
+* docker-compose down --volumes
+ 
