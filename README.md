@@ -1,10 +1,10 @@
 ## IIEC DOCKER PROJECT 
  I have learnt the docker under the guidence of **MR.Vimal Daga sir** in campaign **IIEC-RISE 1.0** which is his intiative on youtube.
 Summary:
-i have created a docker project in which is using container technology 
- as u all know if u want to make a website using wordpress u have start your os 
- then you have to configure the wordpress to use it and the u also have to configure 
- the database to use the wordpress 
+i have created a docker project in which is using container technology <br />
+as u all know if u want to make a website using wordpress u have start your os 
+then you have to configure the wordpress to use it and the u also have to configure 
+the database to use the wordpress 
 and i may have take around half an hour
 and here i have made an project with the help of the container technology
 which will run your os then it will configure your wordpress and the it will setup 
