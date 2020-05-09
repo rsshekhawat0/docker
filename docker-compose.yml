@@ -19,7 +19,7 @@ services:
     volumes:
       - wp_storage_new:/var/www/html
     environment:
-      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_HOST: dbos
       WORDPRESS_DB_NAME: mydb
       WORDPRESS_DB_USER: user
       WORDPRESS_DB_PASSWORD: password
