@@ -4,8 +4,7 @@ Summary:
 i have created a docker project in which is using container technology <br />
 as u all know if u want to make a website using wordpress u have start your os <br />
 then you have to configure the wordpress to use it and the u also have to configure <br />
-the database to use the wordpress <br />
-and i may have take around half an hour <br />
+the database to use the wordpress and i may have take around half an hour <br />
 and here i have made an project with the help of the container technology <br />
 which will run your os then it will configure your wordpress and the it will setup <br />
 your database within seconds you dont have to wait for hours and u dont have to work <br />
