@@ -31,6 +31,6 @@ will run every thing whatever is present inside it
 * docker-compose stop   ( So once you stop everything you can start everything from following command)
 * docker-compose start  ( You can stop or delete all the container made by docker-compose up)
 * docker-compose down
-* docker-compose down --volumes  ( delete all the volumes created by docker compose up you can use)
+* docker-compose down --volumes    ( delete all the volumes created by docker compose up you can use)
 
  
