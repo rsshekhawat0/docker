@@ -23,14 +23,14 @@ for using docker compose we have to configure a yml file and then we have to jus
 will run every thing whatever is present inside it
 
 # how to run it
-#mkdir /mycompose
-#cd /mycompose
-#copy docker-compose.yml file and paste that file in mycompose directory
-#use docker-compose up
+* mkdir /mycompose
+* cd /mycompose
+* copy docker-compose.yml file and paste that file in mycompose directory
+* use docker-compose up
 you can use this cmnd to run file detach mode
-#docker-compose up -d
+* docker-compose up -d
 to stop the sevices you can use
-#docker-compose stop
+* docker-compose stop
 So once you stop everything you can start everything from following comand
 * docker-compose start
 You can stop or delete all the container made by docker-compose up
