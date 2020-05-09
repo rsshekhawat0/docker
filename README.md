@@ -5,4 +5,5 @@
 * It is been assumed that docker is pre configured in your os here i am using redhat8
 # here i have configured the wordpress in container
 # i have also configued the mysql in different container
-
+# Using of wordpress and mysql images which is pulled from docker hub.
+# here i have used docker compose to run multiple container like wordpres,db as a service
